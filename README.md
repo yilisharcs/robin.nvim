@@ -17,9 +17,6 @@ Using [lazy.nvim](https://github.com/folke/lazy.nvim):
 ```lua
 {
         "yilisharcs/robin.nvim",
-        init = function()
-                vim.g.robin = { --[[ config goes here ]] }
-        end
 }
 ```
 
